@@ -1,2 +1,5 @@
 node_modules/
 .env
+MOVIEREVIEWS_DB_URI=mongodb+srv://<username>:<password>@cluster...
+MOVIEREVIEWS_NS=sample_mflix
+PORT=8000
